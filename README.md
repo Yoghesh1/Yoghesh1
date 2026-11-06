@@ -1,23 +1,17 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050B18,30:0B2F59,65:075985,100:0EA5E9&height=205&section=header&text=YOGHESH%20R%20V&fontSize=54&fontColor=E0F2FE&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20CLOUD%20%7C%20AI%20SYSTEMS&descSize=14&descAlignY=61&animation=fadeIn" alt="Yoghesh R V"/>
+<img width="100%" src="https://raw.githubusercontent.com/Yoghesh1/Yoghesh1/main/assets/jarvis-header.svg" alt="Yoghesh R V — JARVIS-inspired profile header"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=780&lines=I+build+software+that+connects+ideas+to+people.;Full-Stack+Development+%7C+Cloud+Engineering;Data+Systems+%7C+AI+%26+Automation;Curious+about+how+things+work+under+the+hood." alt="Animated developer tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=1000&color=56DDF5&center=true&vCenter=true&width=760&lines=Full-Stack+Engineering;Cloud+%26+Backend+Systems;Data%2C+AI+%26+Automation;Building+useful+things%2C+one+system+at+a+time." alt="Developer focus"/>
 
 <br/><br/>
 
-<a href="https://yogheshrv.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://github.com/Yoghesh1"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/yoghesh-r-voltaire-981b40296/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://yogheshrv.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0B7897?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://github.com/Yoghesh1"><img src="https://img.shields.io/badge/GITHUB-101B2A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/yoghesh-r-voltaire-981b40296/"><img src="https://img.shields.io/badge/LINKEDIN-155E75?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:yogheshrv@gmail.com"><img src="https://img.shields.io/badge/EMAIL-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-
-<br/><br/>
-
-<code>yoghesh@dev:~$ whoami</code>
-<br/>
-<sub>Computer Science · Cloud Computing · Builder of practical software</sub>
 
 </div>
 
@@ -25,17 +19,9 @@
 
 ## About
 
-Hey, I'm **Yoghesh** — a Computer Science undergraduate specializing in Cloud Computing. I enjoy taking an idea from a rough sketch to something people can actually use: shaping the interface, building the APIs behind it, working with data, and figuring out how all the pieces fit together.
+I'm Yoghesh, a Computer Science undergraduate specializing in Cloud Computing. I like working across the layers of a product — shaping interfaces, building APIs, modelling data, and connecting services into software that solves a real problem.
 
-I'm most interested in the intersection of **software engineering, cloud systems, data and AI**. That means building full-stack applications, exploring backend and database design, experimenting with local LLMs and RAG, and connecting software with real-world devices through IoT.
-
-I learn best by building, breaking things, understanding why they broke, and improving the design. This GitHub is where that process lives — projects, experiments, tools and things I'm curious about.
-
-<div align="center">
-
-<sub>WEB APPLICATIONS&nbsp; · &nbsp;BACKEND SYSTEMS&nbsp; · &nbsp;CLOUD&nbsp; · &nbsp;DATA&nbsp; · &nbsp;AI&nbsp; · &nbsp;IoT</sub>
-
-</div>
+My interests sit around **full-stack engineering, cloud platforms, data systems, AI-assisted applications and IoT**. I learn by building: trying an approach, understanding the trade-offs, debugging what breaks, and refining the result. This profile is a collection of the projects, experiments and tools that come out of that process.
 
 ---
 
@@ -43,42 +29,47 @@ I learn best by building, breaking things, understanding why they broke, and imp
 
 <div align="center">
 
-### // LANGUAGES
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css&theme=dark" alt="Python, Java, C++, JavaScript, TypeScript, HTML and CSS"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts&theme=dark" alt="Python, Java, C++, JavaScript and TypeScript"/>
 
-### // FRONTEND & APPLICATION DEVELOPMENT
+**Frontend & Mobile**
 
-<img src="https://skillicons.dev/icons?i=react,angular,vite,tailwind,bootstrap&theme=dark" alt="React, Angular, Vite, Tailwind and Bootstrap"/>
+<img src="https://skillicons.dev/icons?i=react,angular,vite,tailwind,bootstrap&theme=dark" alt="React, Angular, Vite, Tailwind CSS and Bootstrap"/>
 
-### // BACKEND & API ENGINEERING
+**Backend & APIs**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,flask&theme=dark" alt="Node.js, Express, FastAPI, Spring Boot and Flask"/>
 
-<sub>REST APIs · SQLAlchemy · Prisma · React Native · Expo</sub>
+**Databases, Cloud & DevOps**
 
-### // DATA, DATABASES & ANALYTICS
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase,aws,docker,kubernetes,linux,git,github&theme=dark" alt="Databases, cloud and development tools"/>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase&theme=dark" alt="PostgreSQL, MySQL, SQLite and Firebase"/>
+**AI & Computer Vision**
 
-<sub>SQL Server · PostGIS · Pandas · NumPy · Matplotlib · Seaborn · Tableau · Power BI</sub>
-
-### // CLOUD, DEVOPS & DEVELOPER TOOLS
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,vscode,postman&theme=dark" alt="AWS, Docker, Kubernetes, Linux, Git, GitHub, VS Code and Postman"/>
-
-### // AI, LLMs & COMPUTER VISION
-
-<img src="https://img.shields.io/badge/OLLAMA-Local%20LLMs-111827?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
-<img src="https://img.shields.io/badge/CHROMADB-Vector%20Database-0D9488?style=for-the-badge" alt="ChromaDB"/>
-<img src="https://img.shields.io/badge/RAG-LLM%20Applications-2563EB?style=for-the-badge" alt="RAG"/>
-<img src="https://img.shields.io/badge/OPENCV-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-<img src="https://img.shields.io/badge/MEDIAPIPE-ML%20Pipelines-149ECA?style=for-the-badge" alt="MediaPipe"/>
-<img src="https://img.shields.io/badge/LSTM-Time%20Series-475569?style=for-the-badge" alt="LSTM"/>
-
-<sub>Generative AI · Local LLMs · Embeddings · Retrieval-Augmented Generation · AI-assisted development with ChatGPT, GitHub Copilot and Codex</sub>
+<img src="https://img.shields.io/badge/OLLAMA-Local%20LLMs-17212F?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
+<img src="https://img.shields.io/badge/CHROMADB-Vector%20Search-176B65?style=flat-square" alt="ChromaDB"/>
+<img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-155E75?style=flat-square" alt="RAG"/>
+<img src="https://img.shields.io/badge/OPENCV-Computer%20Vision-334E68?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/MEDIAPIPE-Vision%20Pipelines-0B7897?style=flat-square" alt="MediaPipe"/>
 
 </div>
+
+### Technology & Tools
+
+| Category | Technologies |
+|---|---|
+| **Programming** | Python, Java, C++, JavaScript, TypeScript, SQL |
+| **Frontend & Mobile** | HTML5, CSS3, React.js, Angular, Vite, Tailwind CSS, Bootstrap, React Native, Expo |
+| **Backend & APIs** | Node.js, Express.js, FastAPI, Spring Boot, Flask, REST APIs, SQLAlchemy, Prisma |
+| **Data Analytics** | Pandas, NumPy, Matplotlib, Seaborn, Tableau, Power BI |
+| **Databases & Geospatial** | PostgreSQL, PostGIS, MySQL, SQLite, SQL Server, Firebase |
+| **Cloud & DevOps** | AWS, Docker, Kubernetes, Linux, Git, GitHub |
+| **AI / ML & Computer Vision** | Generative AI, LLMs, RAG, Ollama, ChromaDB, OpenCV, MediaPipe, LSTM |
+| **AI Assistants & Coding Tools** | ChatGPT, Claude, Gemini, GitHub Copilot, OpenAI Codex, Antigravity |
+| **Development & API Tools** | VS Code, Postman, Swagger / OpenAPI, npm, pnpm, Firebase Studio |
+
+<sub>Tools are listed from hands-on projects and development workflows we've discussed; familiarity varies by technology.</sub>
 
 ---
 
@@ -145,11 +136,19 @@ A directory of projects, experiments, tools and engineering work. Open-source re
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yoghesh1&bg_color=0D1117&color=38BDF8&line=0284C7&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity"/>
+**Contribution Snake**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yoghesh1/Yoghesh1/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yoghesh1/Yoghesh1/output/github-contribution-grid-snake.svg"/>
+  <img width="100%" src="https://raw.githubusercontent.com/Yoghesh1/Yoghesh1/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake"/>
+</picture>
 
 <br/><br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/Yoghesh1/Yoghesh1/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation"/>
+**Activity Graph**
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yoghesh1&bg_color=0B1420&color=7DD3E8&line=22B8CF&point=E6FAFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph"/>
 
 </div>
 
