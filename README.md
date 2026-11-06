@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Yoghesh1/Yoghesh1/main/aboutme.jpg" alt="Yoghesh R V — JARVIS-inspired profile header"/>
+<img width="100%" src="https://raw.githubusercontent.com/Yoghesh1/Yoghesh1/main/aboutme.jpg?v=2" alt="Yoghesh R V — JARVIS-inspired profile header"/>
 
 <br/>
 
