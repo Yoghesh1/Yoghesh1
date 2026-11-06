@@ -72,6 +72,7 @@ A directory of projects, experiments, tools and engineering work. Open-source re
 | [smart-infrastructure-planner](https://github.com/Yoghesh1/smart-infrastructure-planner) | Smart infrastructure planning |
 | [Unified-Engineering-Workbench](https://github.com/Yoghesh1/Unified-Engineering-Workbench) | Unified engineering workspace |
 | [yogheshrv-portfolio](https://github.com/Yoghesh1/yogheshrv-portfolio) | Personal developer portfolio |
+| [Yoghesh1](https://github.com/Yoghesh1/Yoghesh1) | GitHub profile README and developer landing page |
 
 ### AI, Data & Developer Tools
 
