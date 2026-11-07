@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Yoghesh1/Yoghesh1/main/aboutme.jpg?v=2" alt="Yoghesh R "/>
+<img width="100%" src="https://raw.githubusercontent.com/Yoghesh1/Yoghesh1/main/banner.svg" alt="Yoghesh R V — Full-stack, Cloud and AI developer banner"/>
 
 <br/>
 
