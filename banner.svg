@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Yoghesh R V — Full-stack, Cloud and AI</title>
+<desc id="desc">A dark navy developer banner with cyan circuit lines, network nodes, terminal details and a centered name and engineering focus.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#020914"/><stop offset=".55" stop-color="#071b2a"/><stop offset="1" stop-color="#03101c"/></linearGradient>
+  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00d9ef"/><stop offset="1" stop-color="#32ffb4"/></linearGradient>
+  <radialGradient id="spot"><stop stop-color="#0b7897" stop-opacity=".28"/><stop offset="1" stop-color="#0b7897" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#0c6b83" stroke-opacity=".19" stroke-width="1"/></pattern>
+  <filter id="soft"><feGaussianBlur stdDeviation="5"/></filter>
+</defs>
+<rect width="1200" height="360" fill="url(#bg)"/>
+<rect width="1200" height="360" fill="url(#grid)"/>
+<ellipse cx="600" cy="170" rx="520" ry="220" fill="url(#spot)"/>
+<rect x="18" y="18" width="1164" height="324" rx="14" fill="none" stroke="url(#glow)" stroke-width="2" opacity=".85"/>
+<path d="M18 74H190L230 112H330 M1182 70H1060L1020 110H930 M18 286H150L190 250H300 M1182 286H1060L1020 250H920" fill="none" stroke="#00cfe8" stroke-width="2" opacity=".65"/>
+<path d="M42 38h42m-42 0v42m1116-42h-42m42 0v42M42 322h42m-42 0v-42m1116 42h-42m42 0v-42" fill="none" stroke="#27e8ee" stroke-width="4"/>
+<g fill="#28dff0" opacity=".8"><circle cx="190" cy="74" r="4"/><circle cx="230" cy="112" r="4"/><circle cx="1060" cy="70" r="4"/><circle cx="1020" cy="110" r="4"/><circle cx="150" cy="286" r="4"/><circle cx="190" cy="250" r="4"/><circle cx="1060" cy="286" r="4"/><circle cx="1020" cy="250" r="4"/></g>
+<g fill="none" stroke="#11bbd4" stroke-width="1.3" opacity=".42">
+<path d="M850 18l65 56 72-26 76 48 96-34M890 18l50 96 82 20 80-44 80 52M880 342l70-54 84 30 75-58 70 29M1030 342l25-54 67-36 48-66"/>
+<path d="M110 18l35 60 70 12 54 58M18 150l74-28 42 36 76-7M18 210l80 18 42-45 65 22"/>
+</g>
+<g fill="#00d9ef"><circle cx="915" cy="74" r="3"/><circle cx="987" cy="48" r="3"/><circle cx="1063" cy="96" r="3"/><circle cx="1140" cy="62" r="3"/><circle cx="950" cy="288" r="3"/><circle cx="1034" cy="318" r="3"/><circle cx="1109" cy="260" r="3"/><circle cx="145" cy="78" r="3"/><circle cx="215" cy="90" r="3"/><circle cx="269" cy="148" r="3"/></g>
+<g font-family="Consolas,Monaco,monospace" font-size="13" fill="#42dff0" opacity=".88">
+<text x="58" y="112">01 / BUILD</text><text x="58" y="132">02 / DEPLOY</text><text x="58" y="152">03 / IMPROVE</text>
+<text x="935" y="112">CLOUD://READY</text><text x="935" y="132">AI://ENABLED</text><text x="935" y="152">DEV://MODE</text>
+<text x="65" y="305" fill="#85f36b">yoghesh@dev:~$</text><text x="205" y="305">git status --ready</text>
+<text x="900" y="305" fill="#85f36b">[ main ]</text>
+</g>
+<g font-family="Arial,Helvetica,sans-serif" text-anchor="middle">
+<text x="600" y="150" font-size="68" font-weight="700" letter-spacing="1.5" fill="#f4fbff">Yoghesh R V</text>
+<text x="600" y="198" font-size="25" font-weight="600" letter-spacing="4" fill="#31e7ee">FULL-STACK ENGINEERING</text>
+<text x="600" y="230" font-size="18" letter-spacing="3" fill="#8caebc">CLOUD COMPUTING  •  AI &amp; DATA SYSTEMS  •  AUTOMATION</text>
+</g>
+<rect x="325" y="258" width="550" height="34" rx="17" fill="#071d2b" stroke="#19cfe0" stroke-opacity=".7"/>
+<g font-family="Consolas,Monaco,monospace" font-size="13" text-anchor="middle" fill="#d8f7fa"><text x="600" y="280">DESIGN  ·  BUILD  ·  DEBUG  ·  SHIP</text></g>
+<g fill="none" stroke="#24d7e7" stroke-width="2" opacity=".75"><path d="M295 174h-32v-26h-30M905 174h32v-26h30M295 206h-20v24h-35M905 206h20v24h35"/></g>
+<g fill="#20dfec"><circle cx="233" cy="148" r="3"/><circle cx="907" cy="148" r="3"/><circle cx="240" cy="230" r="3"/><circle cx="960" cy="230" r="3"/></g>
+</svg>
