@@ -109,11 +109,12 @@ A directory of projects, experiments, tools and engineering work. Open-source re
 
 ### Private / Additional Project Work
 
-| Project | Visibility |
-|---|---|
-| TNPDCL Internship Project | Private |
-| RETAIL-POS | Private |
-| Residential Maintenance, Administration & Automation Platform | Private |
+| Project | Description | Visibility |
+|---|---|---|
+| Delicious Bites | Bakery website developed for a client | Private |
+| TNPDCL Internship Project | Internship project | Private |
+| RETAIL-POS | Point-of-sale and billing software | Private |
+| Residential Maintenance, Administration & Automation Platform | Residential maintenance and management platform | Private |
 
 ---
 
@@ -121,8 +122,8 @@ A directory of projects, experiments, tools and engineering work. Open-source re
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yoghesh1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoghesh1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=8" alt="Top languages"/>
+<img height="165" src="./profile/stats.svg" alt="GitHub statistics"/>
+<img height="165" src="./profile/top-langs.svg" alt="Top languages"/>
 
 <br/>
 
@@ -146,9 +147,9 @@ A directory of projects, experiments, tools and engineering work. Open-source re
 
 <br/><br/>
 
-**Activity Graph**
+**Contribution Activity**
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yoghesh1&bg_color=0B1420&color=7DD3E8&line=22B8CF&point=E6FAFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph"/>
+<sub>The contribution snake above is generated and refreshed by GitHub Actions.</sub>
 
 </div>
 
