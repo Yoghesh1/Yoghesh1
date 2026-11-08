@@ -122,8 +122,7 @@ A directory of projects, experiments, tools and engineering work. Open-source re
 
 <div align="center">
 
-<img height="165" src="./profile/stats.svg" alt="GitHub statistics"/>
-<img height="165" src="./profile/top-langs.svg" alt="Top languages"/>
+<!-- GitHub stats and language cards removed because their external image endpoints were not rendering reliably. -->
 
 <br/>
 
