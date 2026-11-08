@@ -66,7 +66,7 @@ My interests sit around **full-stack engineering, cloud platforms, data systems,
 | **Databases & Geospatial** | PostgreSQL, PostGIS, MySQL, SQLite, SQL Server, Firebase |
 | **Cloud & DevOps** | AWS, Docker, Kubernetes, Linux, Git, GitHub |
 | **AI / ML & Computer Vision** | Generative AI, LLMs, RAG, Ollama, ChromaDB, OpenCV, MediaPipe, LSTM |
-| **AI Assistants & Coding Tools** | ChatGPT, Claude, Gemini, GitHub Copilot, OpenAI Codex, Antigravity |
+| **AI Assistants & Coding Tools** | ChatGPT, Claude, Gemini, GitHub Copilot, OpenAI Codex, Antigravity, Open Code, Kilo Code |
 | **Development & API Tools** | VS Code, Postman, Swagger / OpenAPI, npm, pnpm, Firebase Studio |
 
 <sub>Tools are listed from hands-on projects and development workflows we've discussed; familiarity varies by technology.</sub>
