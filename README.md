@@ -111,7 +111,8 @@ A directory of projects, experiments, tools and engineering work. Open-source re
 
 | Project | Description | Visibility |
 |---|---|---|
-| Delicious Bites | Bakery website developed for a client | Private |
+| Clinic-Operations-EMR | Clinic operations and electronic medical records project | Private |
+| Delicious Bites | Bakery website built for Delicious Bites | Private |
 | TNPDCL Internship Project | Internship project | Private |
 | RETAIL-POS | Point-of-sale and billing software | Private |
 | Residential Maintenance, Administration & Automation Platform | Residential maintenance and management platform | Private |
@@ -126,7 +127,7 @@ A directory of projects, experiments, tools and engineering work. Open-source re
 
 <br/>
 
-<img width="65%" src="https://streak-stats.demolab.com?user=Yoghesh1&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub streak"/>
+<img width="65%" src="./profile/streak.svg" alt="GitHub streak, refreshed daily by GitHub Actions"/>
 
 </div>
 
